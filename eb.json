@@ -1,6 +1,6 @@
 {
-	"room": "Electro Brasil",
-	"css": "https://rawgit.com/electrobrasil/EB/master/eb.min.css",
+	"room": "E Bnav...",
+	"css": null,
 	"rules": {
             "allowAutorespond": true,
             "allowAutowoot": true,
@@ -12,8 +12,8 @@
             "forceSmartVote": false
 	},
 	"images": {
-	     "background": "https://i.imgur.com/o8U69An.jpg",
-	     "playback": "https://i.imgur.com/jrGS6bO.png",
+	     "background": "https://cdn.radiant.dj/rcs/bg/2k15beach.jpg",
+	     "playback": null,
 	     "admin": null,
 	     "ambassador": null,
 	     "host": null,
