@@ -1,6 +1,6 @@
 {
 	"room": "E Bnav...",
-	"css": null,
+	"css": "https://rawgit.com/bnaav/BN/master/eb.json",
 	"rules": {
             "allowAutorespond": true,
             "allowAutowoot": true,
